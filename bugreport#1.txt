@@ -1,0 +1,13 @@
+Summary:The screen of application can not adjust itself to the user's browser settings
+
+Description:The screen of application can not adjust itself to the users browser settings, so there is no vertical scroll bar and the "Minimize", "Resize", "Close" buttons on the title bar of the page.
+
+Steps to reproduce: 
+
+1.Run the app. "File Manager"
+
+Expected result: The screen of application can adjust itself the user's browser settings
+
+Actual result: The screen of application can not adjust itself to the user's browser settings
+
+Priority:Medium

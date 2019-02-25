@@ -1,0 +1,13 @@
+Summary:The button "New Folder" has the title of the button "Delete" in the top toolbar of app.
+
+Descreption: The button "New Folder" has the title of the button "Delete"  and the  button "Delete" has the title of the button "New Folder"  in the top toolbar of app.
+
+Steps to reproduce:
+
+1.Run the app. "File Manager"
+
+Expected result: The button "New Folder" has the title of the button "New Folder" and he  button "Delete" has the title of the button "Delete" in the top toolbar
+
+Actual result: The button "New Folder" has the title of the button "Delete"  and the  button "Delete" has the title of the button "New Folder"  in the top toolbar
+
+Priority:Medium

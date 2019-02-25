@@ -1,0 +1,14 @@
+Summary:The checkbox "Unselect all" is not clickable in the toolbar when the checkbox "Select all" is clicked
+
+Steps to reproduce:
+
+1.Run the app "File manager"
+2.Click the button "New File" and add files from the folder with files from the computer
+3.Click the checkbox "Select all"
+4.Click the checkbox "Unselect all"
+
+Expected result: The checkbox "Unselect all" is clickable
+
+Actual result:  The checkbox "Unselect all" isn't  clickable
+
+Priority:Medium
